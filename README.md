@@ -1,1 +1,0 @@
-# DB-Praktikum-All
