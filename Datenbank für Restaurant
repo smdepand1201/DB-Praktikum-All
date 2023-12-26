@@ -10,4 +10,18 @@ CREATE TABLE Restaurant (
 
 --Inserting Data into Restaurant
 
-INSERT INTO Restaurant VALUES('Döner macht Schöner',
+INSERT INTO Restaurant VALUES('Döner macht Schöner', 
+
+
+--Daten zum einfügen
+
+Restaurant_1: 'Döner macht Schöner', 'Ein Restaurant das einzigartig ist und Menschen wirklich schöner macht! Saftiges Dönerfleisch das für alle Halal ist.'
+Restaurant_2: 'Sakura Restaurant', 'Eine vielfallt von Sushi Varianten. Unser All-you-can-eat Buffet macht jeden satt und zufrieden!'
+Restaurant_3: 'Deutsche Kartoffel', 'Du suchst nach dem Geschmack der deutschen Kultur? Jägerschnitzel, Frikadellen und vieles mehr, findest du nur bei uns!'
+Restaurant_4: 'Lecker Lachs', 'Viele verschiedene Lachs Gerichte zu einem günstigen Preis!'
+Restaurant_5: 'Kathakali', 'Du wolltest schon immer mal indisch essen gehen? Dann bist du bei uns richtig! Samosas, Palak Paneer, Jalebi und vieles mehr.'
+Restaurant_6: 'Matrjoschka', 'Bei uns findest du viele russische Spezialitäten, wie Pelmeni, Plov, Manti nach Omas Rezepten!'
+Restaurant_7: 'Baklava & Koran', 'Eine süße Auszeit nehmen, und neben bei Allah nicht vergessen. Extra Privaträume fürs ungestörte Beten.'
+Restaurant_8: 'Aphrodites', 'Griechische Spezialitäten für jeden Feinschmecker.'
+Restaurant_9: 'Hollywood', 'Schon immer Interesse daran gehabt Essen zu essen was deine Lieblingsstars essen? We Love Fastfood.'
+Restaurant_10:'KulturBunt', 'Viele verschiedene Nationalitätsgerichte aus verschiedenen Kulturen, abwechslungsreich und lecker!'
