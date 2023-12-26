@@ -16,12 +16,29 @@ INSERT INTO Restaurant VALUES('Döner macht Schöner',
 --Daten zum einfügen
 
 Restaurant_1: 'Döner macht Schöner', 'Ein Restaurant das einzigartig ist und Menschen wirklich schöner macht! Saftiges Dönerfleisch das für alle Halal ist.'
+	Items1: 'Türkisches Fladenbrot', 'Rotkohl-Salat','Börek mit Spinat', 'Börek mit Fleisch', 'Döner Menü', 'Döner Menü Extra', 'Baklava'
 Restaurant_2: 'Sakura Restaurant', 'Eine vielfallt von Sushi Varianten. Unser All-you-can-eat Buffet macht jeden satt und zufrieden!'
+	Items2: 'Sushi VEGIE', 'Sushi mit Fisch', 'Sushi Bunt', 'Reis', 'Kimchi', 'Bingsu', 'Reiskuchen', 'Bubble Tea' 
 Restaurant_3: 'Deutsche Kartoffel', 'Du suchst nach dem Geschmack der deutschen Kultur? Jägerschnitzel, Frikadellen und vieles mehr, findest du nur bei uns!'
+	Items3: 'Jägerschnitzel', 'Frikadellen', 'Sauerbraten mit Klößen', 'Rotkohlsalat', 'Bratwurst', 'Klöße', 'Schnitzel' 
 Restaurant_4: 'Lecker Lachs', 'Viele verschiedene Lachs Gerichte zu einem günstigen Preis!'
+	Items4: 'Gebratener Lachs', 'Zitronen Lachs', 'Lachsfilet', 'Lachsfilet SPEZIAL', 'Lachs Salat', 'Lachs-Rolle', 'Lachs-Burger'
 Restaurant_5: 'Kathakali', 'Du wolltest schon immer mal indisch essen gehen? Dann bist du bei uns richtig! Samosas, Palak Paneer, Jalebi und vieles mehr.'
+	Items5: 'Samosas', 'Tandoori-Chicken', 'Jalebi', 'Linsen Dal', 'Naan Brot', 'Curry Suppe'
 Restaurant_6: 'Matrjoschka', 'Bei uns findest du viele russische Spezialitäten, wie Pelmeni, Plov, Manti nach Omas Rezepten!'
+	Items6: 'Pelmeni', 'Plov Vegan', 'Plov mit Fleisch', 'Manti Vegan', 'Manti', 'Manti mit Hackfleisch'
 Restaurant_7: 'Baklava & Koran', 'Eine süße Auszeit nehmen, und neben bei Allah nicht vergessen. Extra Privaträume fürs ungestörte Beten.'
+	Items7: 'Baklava extra süß', 'Baklava weniger süß', 'Baklava klein', 'Baklava groß', 'Baklava Vegan'
 Restaurant_8: 'Aphrodites', 'Griechische Spezialitäten für jeden Feinschmecker.'
-Restaurant_9: 'Hollywood', 'Schon immer Interesse daran gehabt Essen zu essen was deine Lieblingsstars essen? We Love Fastfood.'
+	Items8: 'Tzatziki Salat', 'Feta-Tomaten-Auflauf', 'Gyros Vegan', 'Gyros', 'Fetaauflauf', 'Gyrosauflauf'
+Restaurant_9: 'Hollywood', 'Schon immer Interesse daran gehabt Essen zu essen was deine Lieblingsstars auch essen? We Love Fastfood.'
+	Items9: 'Pommes', 'Hamburger','Chicken-Burger', 'Cesar Salat', 'Big Burger', 'Chicken-Salat', 'Big Pommes'
 Restaurant_10:'KulturBunt', 'Viele verschiedene Nationalitätsgerichte aus verschiedenen Kulturen, abwechslungsreich und lecker!'
+	Items10: 'Börek', 'Samosas', 'Lachsfilet', 'Gyros','Pommes', 'Baklava', 'Manti'
+
+
+
+
+FÜR ALLE RESTAURANTS ITEMS: 
+Getränke: 'Cola','Cola Zero', 'Ayran','Wasser','Sprite','Tee'
+Nachtisch: 'Pudding', 'Eis', 
