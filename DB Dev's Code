@@ -1,1 +1,18 @@
 
+-- Inserting sample data into food_items table
+INSERT INTO food_items (item_name, price, description, category, restaurant_name)
+VALUES
+    ('Margherita Pizza', 12.99, 'Classic margherita pizza', 'Pizza', 'Pizza Palace'),
+    ('California Roll', 8.99, 'Avocado and crab roll', 'Sushi', 'Sushi Haven');
+
+-- Inserting sample data into bestellung table
+INSERT INTO bestellung (status, customer_email, restaurant_name, total_price)
+VALUES
+    ('Pending', 'john@example.com', 'Pizza Palace', 12.99),
+    ('Completed', 'alice@example.com', 'Sushi Haven', 8.99);
+
+-- Inserting sample data into order_food_items table
+INSERT INTO order_food_items (order_no, item_name)
+VALUES
+    (1, 'Margherita Pizza'),
+    (2, 'California Roll');
