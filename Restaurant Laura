@@ -1,17 +1,3 @@
-CREATE TABLE Restaurant (
-	Name VARCHAR (20) PRIMARY KEY NOT NULL,
-	Bestellungsgeschichte TIMESTAMP,
-	PLZ INT NOT NULL,
-	Passwort VARCHAR (20) NOT NULL,
-	Öffnungszeiten TIMESTAMP NOT NULL,
-	Beschreibung VARCHAR (100) NOT NULL,
-	Foto
-);
-
---Inserting Data into Restaurant
-
-INSERT INTO Restaurant VALUES('Döner macht Schöner', 
-
 
 --Daten zum einfügen
 
