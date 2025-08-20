@@ -1,0 +1,1 @@
+Database project of creating a Lieferando-like website with a database in postgresql. The website uses python in Flask and connects html pages with css design and only to solve the cart problem was JSON used.
